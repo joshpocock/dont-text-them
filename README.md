@@ -97,6 +97,9 @@ computer.
 
 ## More free skills
 
+- [Dinner Arena](https://github.com/joshpocock/dinner-arena) (ten Claudes pick where you eat)
+- [Parent Tech Support](https://github.com/joshpocock/parent-tech-support) (patient tech help and scam checks for your parents)
+
 Made by Josh Pocock. More at [strideaiacademy.com](https://strideaiacademy.com).
 
 MIT licence.
